@@ -64,7 +64,7 @@
 }
 /* Estilos para dispositivos móviles */
 /* Estilos para dispositivos móviles */
-@media (max-width: 767px) {
+@media (max-width: 800px) {
   .carrusel-container {
 
     height: 100vh;  }
@@ -108,6 +108,8 @@
   }
   
   .texto1 {
+    position: absolute;
+    top: 45%;
     font-size: 15px;
     width: 100%;
     text-align: center;

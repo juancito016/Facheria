@@ -1,9 +1,10 @@
 import React from "react";
 import json from '../json/Servicios.json';
-import '../hojas-de-estilo/Servicios.css'
+import '../hojas-de-estilo/Servicios.css';
 import NavBar from "./NavBar";
-import Footer from './Footer'
-import ubicacion from '../imagenes/Ubicacion-img/image.png'
+import Footer from './Footer';
+
+import ubicacion from '../imagenes/Ubicacion-img/image.png';
 export default function NuestrosServicios() {
     return (
         
