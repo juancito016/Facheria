@@ -92,4 +92,11 @@ nav .menu-icon {
     color: #fff;
     cursor: pointer;
   }
+  nav li span:hover,
+nav li.selected {
+  color: #db3b56;
+  padding: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
 }
